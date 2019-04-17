@@ -1,6 +1,6 @@
 ﻿/***************************************
  
- Name: Zaid Rashid
+ Name: Zed Trzcinski
  Class; CST 267
  Professor: Pete Myers
  Assign 1
